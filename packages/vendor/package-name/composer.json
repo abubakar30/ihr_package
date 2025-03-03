@@ -1,0 +1,15 @@
+{
+    "name": "vendor/packagename",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Packagename\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abu Bakar",
+            "email": "abakar974@gmail.com"
+        }
+    ],
+    "require": {}
+}
